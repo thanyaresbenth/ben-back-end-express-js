@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../ben-back-end-express-js.iml" filepath="$PROJECT_DIR$/../ben-back-end-express-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ben-back-end-express-js.iml" filepath="$PROJECT_DIR$/.idea/ben-back-end-express-js.iml" />
     </modules>
   </component>
 </project>
